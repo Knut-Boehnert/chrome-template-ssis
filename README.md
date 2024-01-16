@@ -1,4 +1,4 @@
-# chrome-template-cs
+# chrome-template-ssis
 Team Chrome - SSIS repository template
 
 # Purpose
